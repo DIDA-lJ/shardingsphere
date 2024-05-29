@@ -120,7 +120,7 @@ ElasticJob 3.x defines a wealth of extensible interfaces on the basis of the mic
 
 Developers can weave customized functions without modifying the ElasticJob source code, which is truly closed for modification and open for extension.
 
-**Ecological docking **
+**Ecological docking**
 
 ElasticJob 3.x provides the official Spring Boot Starter, and has started to develop automatic probes based on Apache SkyWalking, making it more convenient to integrate into the existing technology system. 
 
