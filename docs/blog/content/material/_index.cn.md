@@ -18,7 +18,7 @@ chapter = true
 
 6. [Apache ShardingSphere 社区的探索与拓展](/cn/material/community/)  
 
-7. [快讯！Apache ShardingSphere 进入CNCF全景图](/cn/material/cncf/)  
+7. [快讯！Apache ShardingSphere 进入 CNCF 全景图](/cn/material/cncf/)  
 
 8. [Apache ShardingSphere 整合 Seata AT 分布式事务](/cn/material/seata/)  
 
